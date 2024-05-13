@@ -931,14 +931,14 @@ body {
 @media (min-width:64em) {
 	.archive {
 		float: right;
-		width: calc(100% - 200px);
+		width: calc(90% - 200px);
 		padding-right: 200px
 	}
 }
 
 @media (min-width:80em) {
 	.archive {
-		width: calc(100% - 300px);
+		width: calc(90% - 300px);
 		padding-right: 300px
 	}
 }
