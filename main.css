@@ -778,7 +778,7 @@ body {
 
 @media (min-width:30em) {
 	.page__title::after {
-		width: 6.7em;
+		width: 5.4em;
 	}
 }
 
