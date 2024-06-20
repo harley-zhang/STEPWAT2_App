@@ -10,3 +10,7 @@
 ## Overview
 
 Precursor to [EcoForecast](https://ecoforecast.info/) with a contextual website around the app. The app utilizes data generated using the [STEPWAT2 simulation model](https://github.com/DrylandEcology/STEPWAT2) and is built using [Google Earth Engine (GEE) JavaScript API](https://developers.google.com/earth-engine).
+
+To clone this repository:
+
+    git clone https://github.com/harley-zhang/STEPWAT2_App
